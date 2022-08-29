@@ -1,0 +1,1 @@
+Hi! My name is Connor. I am a Computer Science major, Math minor here at UAlbany. I am a transfer student from HVCC where I got my Associates degree in Computer Science. My interests include, naturally, computers and technology/IT in general. I do not have that much experience with programming or software engineering, so I hope to learn as much as possible from this class. 
